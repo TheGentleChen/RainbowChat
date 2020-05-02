@@ -4,7 +4,6 @@
  * @LastEditTime : 2019-12-18 17:39:22
  * @LastEditors  : HandsomeChen
  * @Description: This is description
- * @FilePath: /stun frame/useful structure/tests/test_endpoint.c
  */
 #include "../endpoint.h"
 #include "../user.h"
