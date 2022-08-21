@@ -8,4 +8,4 @@ test_endpoint: test_endpoint.c ../endpoint.c ../user.c
 clean:
 	rm -rf $(TARGETS)
 
-.PHONY: clean
+.PHONY: clean all
